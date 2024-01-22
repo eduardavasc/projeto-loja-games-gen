@@ -4,7 +4,7 @@
 
 ## Desenvolvendo o Backend com Spring
 
-Este repositório é o lar do projeto "Desenvolvendo o Backend com Spring" do Bootcamp Java FullStack da Generation Brasil. Nosso objetivo principal foi criar a aplicação backend para uma loja de games, oferecendo uma manipulação eficiente dos dados dos produtos. Organizamos os jogos por categorias, proporcionando uma gestão simples e intuitiva. Este projeto é carinhosamente apelidado de "Madxux Game Store" utilizando meu apelido, oferecendo uma seleção de alguns dos meus jogos favoritos. 🎮✨
+Este repositório é o lar do projeto "Desenvolvendo o Backend com Spring" do Bootcamp Java FullStack da Generation Brasil. Nosso objetivo principal foi criar a aplicação backend para uma loja de games, oferecendo uma manipulação eficiente dos dados dos produtos. Organizamos os jogos por categorias, proporcionando uma gestão simples e intuitiva. Este projeto é carinhosamente apelidado de "Madxux Game Store" utilizando meu apelido. 🎮✨
 
 
 ## Tecnologias utilizadas
