@@ -1,4 +1,6 @@
-![Dark Violet and Indigo Pixel Art Games Logo (1)](https://github.com/eduardavasc/projeto-loja-games-gen/assets/136653791/f176e131-7494-4b40-8c6d-1820e0b62b96)
+<div align="center">
+<img src="https://github.com/eduardavasc/projeto-loja-games-gen/assets/136653791/f176e131-7494-4b40-8c6d-1820e0b62b96" width="400px"> 
+</div>
 
 ## Desenvolvendo o Backend com Spring
 
@@ -52,12 +54,12 @@ spring.datasource.password= sua senha
 Execute a aplicação Spring Boot.
 
 ```bash
-  *Indicamos executar no Spring Tool Suite.
+  *Indico executar no Spring Tool Suite.
 ```
 
 Teste a API.
 
 ```bash
-  * Indicamos o Insomnia.
+  *Indico o Insomnia.
 ```
 
